@@ -53,7 +53,6 @@
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 saa.paramountplus.com
-(\.|^)cws\.conviva\.com$
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 saa.cbsi.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
