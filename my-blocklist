@@ -1,7 +1,7 @@
-0.0.0.0 telegraph.prd.api.discomax.com
-0.0.0.0 images.cdn.prd.api.discomax.com
-0.0.0.0 default.any-amer.prd.api.discomax.com
-0.0.0.0 busy.any-amer.prd.api.discomax.com
-0.0.0.0 gmss.use1.prd.api.discomax.com	
-0.0.0.0 default.any-any.prd.api.discomax.com
-0.0.0.0 events.prd.api.discomax.com
+telegraph.prd.api.discomax.com
+images.cdn.prd.api.discomax.com
+default.any-amer.prd.api.discomax.com
+busy.any-amer.prd.api.discomax.com
+gmss.use1.prd.api.discomax.com	
+default.any-any.prd.api.discomax.com
+events.prd.api.discomax.com
