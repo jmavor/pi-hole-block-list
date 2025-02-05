@@ -49,17 +49,3 @@
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 track.sr.roku.com
 0.0.0.0 wwwimg.roku.com
-
-0.0.0.0 cbsinteractive.hb.omtrdc.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 saa.paramountplus.com
-0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
-0.0.0.0 saa.cbsi.com
-0.0.0.0 production-cmp.isgprivacy.cbsi.com
-0.0.0.0 cbsi.demdex.net
-0.0.0.0 om.cbsi.com
-0.0.0.0 vidtech.cbsinteractive.com
-0.0.0.0 vod-gcs-cedexis.cbsaavideo.com
-0.0.0.0 tags.tiqcdn.com
-0.0.0.0 click.email.paramountplus.com
-0.0.0.0 image.email.paramountplus.com
