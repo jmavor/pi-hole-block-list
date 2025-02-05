@@ -2,7 +2,7 @@
 0.0.0.0 amarillo.logs.roku.com
 0.0.0.0 amoeba-plus.web.roku.com
 0.0.0.0 austin.logs.roku.com
-0.0.0.0bryan.logs.roku.com
+0.0.0.0 bryan.logs.roku.com
 0.0.0.0 camden.logs.roku.com
 0.0.0.0 cloudservices.roku.com
 0.0.0.0 cooper.logs.roku.com
@@ -53,7 +53,7 @@
 0.0.0.0 cbsinteractive.hb.omtrdc.net	
 0.0.0.0 pubads.g.doubleclick.net	
 0.0.0.0 saa.paramountplus.com	
-0.0.0.0 (\.|^)cws\.conviva\.com$	
+(\.|^)cws\.conviva\.com$	
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net	
 0.0.0.0 saa.cbsi.com	
 0.0.0.0 production-cmp.isgprivacy.cbsi.com	
