@@ -15,9 +15,20 @@
 0.0.0.0 click.email.paramountplus.com
 0.0.0.0 image.email.paramountplus.com
 #
+0.0.0.0 enduser.adsrvr.org	
+0.0.0.0 cdn.privacy.paramount.com	
+0.0.0.0 www.googletagmanager.com	
+0.0.0.0 pagead2.googlesyndication.com	
+0.0.0.0 availability-fastly.syncbak-mediastore-cedexis.cbsaavideo.com	
+0.0.0.0 cbsi.demdex.net	
+0.0.0.0 vod-gcs-qwilt.cbsaavideo.com	
+0.0.0.0 vod-gcs-google.cbsaavideo.com
+#
+#
 # PeacockTv blocklist -----------------------------
 #
 0.0.0.0 imt.ssai.peacocktv.com
+#
 #
 # HBO/MAX blocklist -----------------------------
 #
