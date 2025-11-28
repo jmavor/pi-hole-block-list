@@ -15,6 +15,9 @@
 0.0.0.0 click.email.paramountplus.com
 0.0.0.0 image.email.paramountplus.com
 #
+# PeacockTv blocklist -----------------------------
+#
+#
 # HBO/MAX blocklist -----------------------------
 #
 0.0.0.0 telegraph.prd.api.discomax.com
